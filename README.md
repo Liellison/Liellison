@@ -11,3 +11,5 @@
 - ⚡ Fun fact: ...
 
 ### Find me 🌎
+
+- 💼 Here's my LinkedIn - [LinkedIn](https://www.linkedin.com/in/liellison)
