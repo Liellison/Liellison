@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on MC1, iOS Developer
+- 🔭 I’m currently working on Meta, iOS Developer
 - 🌱 I’m currently learning Apple Vision Pro
 - 👯 I’m looking to collaborate on challenging projects
 - 🤔 I’m looking for help with swift development
