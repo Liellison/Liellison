@@ -2,13 +2,13 @@
 
 
 - 🔭 I’m currently working on MC1, iOS Developer
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🌱 I’m currently learning Apple Vision Pro
+- 👯 I’m looking to collaborate on challenging projects
+- 🤔 I’m looking for help with swift development
+- 💬 Ask me about the future
+- 📫 How to reach me: Here
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I believe in dragons
 
 ### Find me 🌎
 
