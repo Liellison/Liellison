@@ -13,4 +13,4 @@
 ### Find me 🌎
 
 - 💼 Here's my LinkedIn - [LinkedIn](https://www.linkedin.com/in/liellison)
-- <a rel="me" href="https://mstdn.jp/@josefu">Mastodon</a>
+- <i class="fa-brands fa-mastodon"></i> My Mastodon - <a rel="me" href="https://mstdn.jp/@josefu">Mastodon</a>
